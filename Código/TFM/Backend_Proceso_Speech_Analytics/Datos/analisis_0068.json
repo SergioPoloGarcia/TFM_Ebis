@@ -1,0 +1,19 @@
+{
+  "id": "0068",
+  "motivo": "Avería del sistema",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.32,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Cámara"
+  ],
+  "resumen": "El usuario reporta fallo de hardware en sus componentes instalados y solicita asistencia del departamento técnico.",
+  "confidence": {
+    "motivo": 0.99,
+    "categoria": 0.93,
+    "sentimiento_cliente": 0.89,
+    "educacion_operador": 0.85,
+    "resolucion": 0.99
+  }
+}

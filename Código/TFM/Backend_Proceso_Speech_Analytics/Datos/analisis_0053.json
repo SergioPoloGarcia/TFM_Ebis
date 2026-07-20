@@ -1,0 +1,17 @@
+{
+  "id": "0053",
+  "motivo": "Solicitud de instalación",
+  "categoria": "contratacion",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.33,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "El cliente solicita agendar fecha para el montaje de nuevos sensores de apertura en accesos traseros de la vivienda.",
+  "confidence": {
+    "motivo": 0.81,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.81,
+    "educacion_operador": 0.9,
+    "resolucion": 0.91
+  }
+}

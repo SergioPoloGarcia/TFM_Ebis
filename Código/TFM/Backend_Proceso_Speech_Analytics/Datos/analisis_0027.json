@@ -1,0 +1,19 @@
+{
+  "id": "0027",
+  "motivo": "Cambio de titular",
+  "categoria": "administracion",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.38,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Botón SOS"
+  ],
+  "resumen": "Se inicia trámite para cambiar el titular del contrato de seguridad por venta de inmueble o cambio de circunstancias.",
+  "confidence": {
+    "motivo": 0.8,
+    "categoria": 0.9,
+    "sentimiento_cliente": 0.9,
+    "educacion_operador": 0.92,
+    "resolucion": 1.0
+  }
+}

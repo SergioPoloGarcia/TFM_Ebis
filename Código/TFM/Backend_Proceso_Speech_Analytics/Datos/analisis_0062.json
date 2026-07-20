@@ -1,0 +1,17 @@
+{
+  "id": "0062",
+  "motivo": "Problema de conexión",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.13,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "Pérdida de comunicación entre la consola principal y la central de monitoreo. Se realizan reajustes y pruebas de línea.",
+  "confidence": {
+    "motivo": 0.8,
+    "categoria": 0.95,
+    "sentimiento_cliente": 0.9,
+    "educacion_operador": 0.83,
+    "resolucion": 0.93
+  }
+}

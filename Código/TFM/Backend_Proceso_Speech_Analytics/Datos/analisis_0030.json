@@ -1,0 +1,19 @@
+{
+  "id": "0030",
+  "motivo": "Problema de conexión",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.38,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Teclado"
+  ],
+  "resumen": "Pérdida de comunicación entre la consola principal y la central de monitoreo. Se realizan reajustes y pruebas de línea.",
+  "confidence": {
+    "motivo": 0.95,
+    "categoria": 0.88,
+    "sentimiento_cliente": 0.91,
+    "educacion_operador": 0.94,
+    "resolucion": 0.93
+  }
+}

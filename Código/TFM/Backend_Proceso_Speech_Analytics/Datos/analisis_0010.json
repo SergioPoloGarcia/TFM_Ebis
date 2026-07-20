@@ -1,0 +1,17 @@
+{
+  "id": "0010",
+  "motivo": "Consulta general",
+  "categoria": "informacion",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.49,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "Dudas básicas sobre el funcionamiento del sistema en modo noche y cómo configurar las zonas de seguridad internas.",
+  "confidence": {
+    "motivo": 0.82,
+    "categoria": 0.86,
+    "sentimiento_cliente": 0.79,
+    "educacion_operador": 0.86,
+    "resolucion": 1.0
+  }
+}

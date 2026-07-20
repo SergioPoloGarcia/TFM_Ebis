@@ -1,0 +1,21 @@
+{
+  "id": "0016",
+  "motivo": "Consulta de factura",
+  "categoria": "facturacion",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.67,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Botón SOS",
+    "Sensor de humo",
+    "Sirena"
+  ],
+  "resumen": "Preguntas sobre el último cobro mensual o solicitud de aclaraciones por cargos adicionales en la factura del periodo actual.",
+  "confidence": {
+    "motivo": 0.96,
+    "categoria": 0.86,
+    "sentimiento_cliente": 0.77,
+    "educacion_operador": 0.89,
+    "resolucion": 0.93
+  }
+}

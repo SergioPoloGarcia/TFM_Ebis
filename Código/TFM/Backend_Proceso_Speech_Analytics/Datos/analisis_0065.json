@@ -1,0 +1,21 @@
+{
+  "id": "0065",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.69,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Cámara",
+    "Sensor de inundación",
+    "Panel de alarma"
+  ],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 0.89,
+    "categoria": 1.0,
+    "sentimiento_cliente": 0.86,
+    "educacion_operador": 0.8,
+    "resolucion": 0.99
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0096",
+  "motivo": "Falsa alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.45,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Cámara"
+  ],
+  "resumen": "Se recibe llamada tras un salto accidental provocado por una mascota o descuido. El cliente confirma código y se anula el aviso.",
+  "confidence": {
+    "motivo": 0.87,
+    "categoria": 0.96,
+    "sentimiento_cliente": 0.78,
+    "educacion_operador": 0.92,
+    "resolucion": 0.91
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0032",
+  "motivo": "Consulta de factura",
+  "categoria": "facturacion",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.27,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Detector de movimiento"
+  ],
+  "resumen": "Preguntas sobre el último cobro mensual o solicitud de aclaraciones por cargos adicionales en la factura del periodo actual.",
+  "confidence": {
+    "motivo": 0.92,
+    "categoria": 0.92,
+    "sentimiento_cliente": 0.85,
+    "educacion_operador": 0.8,
+    "resolucion": 0.94
+  }
+}

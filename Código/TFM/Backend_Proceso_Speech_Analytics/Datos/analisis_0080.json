@@ -1,0 +1,20 @@
+{
+  "id": "0080",
+  "motivo": "Cambio de datos",
+  "categoria": "administracion",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.55,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Sensor de humo",
+    "App móvil"
+  ],
+  "resumen": "Actualización de información de contacto o del número de cuenta para los cargos mensuales recurrentes de la suscripción.",
+  "confidence": {
+    "motivo": 0.95,
+    "categoria": 0.92,
+    "sentimiento_cliente": 0.86,
+    "educacion_operador": 0.86,
+    "resolucion": 0.94
+  }
+}

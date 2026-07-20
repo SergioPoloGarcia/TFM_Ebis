@@ -1,0 +1,21 @@
+{
+  "id": "0008",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.58,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Sensor de inundación",
+    "Central receptora",
+    "Detector de movimiento"
+  ],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 0.91,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.87,
+    "educacion_operador": 0.9,
+    "resolucion": 0.93
+  }
+}

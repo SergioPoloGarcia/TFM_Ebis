@@ -1,0 +1,21 @@
+{
+  "id": "0043",
+  "motivo": "Problema de conexión",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.66,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Detector de movimiento",
+    "Central receptora",
+    "Detector de apertura"
+  ],
+  "resumen": "Pérdida de comunicación entre la consola principal y la central de monitoreo. Se realizan reajustes y pruebas de línea.",
+  "confidence": {
+    "motivo": 0.93,
+    "categoria": 0.93,
+    "sentimiento_cliente": 0.94,
+    "educacion_operador": 0.89,
+    "resolucion": 0.93
+  }
+}

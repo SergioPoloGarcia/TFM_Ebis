@@ -1,0 +1,21 @@
+{
+  "id": "0005",
+  "motivo": "Baja del servicio",
+  "categoria": "cancelacion",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.3,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Detector de apertura",
+    "Botón SOS",
+    "Central receptora"
+  ],
+  "resumen": "El cliente solicita la cancelación del servicio de alarma por mudanza o inconformidad con los precios actuales.",
+  "confidence": {
+    "motivo": 0.9,
+    "categoria": 0.93,
+    "sentimiento_cliente": 0.79,
+    "educacion_operador": 0.94,
+    "resolucion": 0.95
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0061",
+  "motivo": "Salto de alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.36,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Detector de movimiento"
+  ],
+  "resumen": "El cliente llama tras activarse la alarma en su domicilio. Se verifica la situación de seguridad mediante protocolo estándar.",
+  "confidence": {
+    "motivo": 0.95,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.76,
+    "educacion_operador": 0.83,
+    "resolucion": 0.91
+  }
+}

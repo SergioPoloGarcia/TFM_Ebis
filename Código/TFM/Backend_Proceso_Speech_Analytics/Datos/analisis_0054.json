@@ -1,0 +1,17 @@
+{
+  "id": "0054",
+  "motivo": "Falsa alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.5,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "Se recibe llamada tras un salto accidental provocado por una mascota o descuido. El cliente confirma código y se anula el aviso.",
+  "confidence": {
+    "motivo": 0.87,
+    "categoria": 0.86,
+    "sentimiento_cliente": 0.91,
+    "educacion_operador": 0.9,
+    "resolucion": 0.99
+  }
+}

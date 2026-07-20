@@ -1,0 +1,21 @@
+{
+  "id": "0044",
+  "motivo": "Consulta de factura",
+  "categoria": "facturacion",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.4,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Panel de alarma",
+    "Teclado",
+    "Detector de apertura"
+  ],
+  "resumen": "Preguntas sobre el último cobro mensual o solicitud de aclaraciones por cargos adicionales en la factura del periodo actual.",
+  "confidence": {
+    "motivo": 0.86,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.82,
+    "educacion_operador": 0.92,
+    "resolucion": 0.97
+  }
+}

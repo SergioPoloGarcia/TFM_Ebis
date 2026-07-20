@@ -1,0 +1,20 @@
+{
+  "id": "0011",
+  "motivo": "Alta del servicio",
+  "categoria": "contratacion",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.88,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Sensor de inundación",
+    "Detector de apertura"
+  ],
+  "resumen": "Interés en contratar un nuevo paquete de seguridad integral para segunda residencia o local comercial de reciente apertura.",
+  "confidence": {
+    "motivo": 0.96,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.89,
+    "educacion_operador": 0.87,
+    "resolucion": 0.96
+  }
+}

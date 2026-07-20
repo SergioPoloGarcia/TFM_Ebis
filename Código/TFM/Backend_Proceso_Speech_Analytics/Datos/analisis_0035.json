@@ -1,0 +1,17 @@
+{
+  "id": "0035",
+  "motivo": "Renovación de contrato",
+  "categoria": "comercial",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.48,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "Conversación comercial para extender el periodo de permanencia actual a cambio de mejoras tecnológicas en los equipos.",
+  "confidence": {
+    "motivo": 0.87,
+    "categoria": 0.94,
+    "sentimiento_cliente": 0.79,
+    "educacion_operador": 0.83,
+    "resolucion": 1.0
+  }
+}

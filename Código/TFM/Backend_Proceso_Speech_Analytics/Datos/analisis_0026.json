@@ -1,0 +1,20 @@
+{
+  "id": "0026",
+  "motivo": "Renovación de contrato",
+  "categoria": "comercial",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.44,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Central receptora",
+    "Teclado"
+  ],
+  "resumen": "Conversación comercial para extender el periodo de permanencia actual a cambio de mejoras tecnológicas en los equipos.",
+  "confidence": {
+    "motivo": 0.91,
+    "categoria": 0.95,
+    "sentimiento_cliente": 0.95,
+    "educacion_operador": 0.81,
+    "resolucion": 0.94
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "id": "0001",
+    "motivo": "Consulta de factura",
+    "categoria": "facturacion",
+    "sentimiento_cliente": "negativo",
+    "educacion_operador": 0.92,
+    "resolucion": true,
+    "dispositivos_mencionados": [],
+    "resumen": "El cliente llama porque el importe de la factura de la alarma es superior al habitual y no entiende el cargo adicional. El operador revisa el contrato y explica que se debe a una cuota de mantenimiento anual aplicada ese mes. A petición del cliente, solicita el fraccionamiento del importe adicional y confirma que recibirá la confirmación por correo electrónico, indicando que la próxima factura volverá al importe mensual habitual.",
+    "confidence": {
+        "motivo": 0.99,
+        "categoria": 0.99,
+        "sentimiento_cliente": 0.86,
+        "educacion_operador": 0.95,
+        "resolucion": 0.98
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0003",
+  "motivo": "Otro",
+  "categoria": "otro",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.59,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Detector de movimiento"
+  ],
+  "resumen": "El cliente se comunica por cuestiones varias no tipificadas, solicitando información general sobre los términos del servicio actual.",
+  "confidence": {
+    "motivo": 0.99,
+    "categoria": 0.93,
+    "sentimiento_cliente": 0.81,
+    "educacion_operador": 0.9,
+    "resolucion": 0.9
+  }
+}

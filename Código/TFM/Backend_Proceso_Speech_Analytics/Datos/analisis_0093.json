@@ -1,0 +1,20 @@
+{
+  "id": "0093",
+  "motivo": "Problema de conexión",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.47,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Detector de apertura",
+    "Sensor de inundación"
+  ],
+  "resumen": "Pérdida de comunicación entre la consola principal y la central de monitoreo. Se realizan reajustes y pruebas de línea.",
+  "confidence": {
+    "motivo": 0.89,
+    "categoria": 0.99,
+    "sentimiento_cliente": 0.88,
+    "educacion_operador": 0.83,
+    "resolucion": 0.91
+  }
+}

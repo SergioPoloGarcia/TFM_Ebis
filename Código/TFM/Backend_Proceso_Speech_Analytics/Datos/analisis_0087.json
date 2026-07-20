@@ -1,0 +1,19 @@
+{
+  "id": "0087",
+  "motivo": "Avería del sistema",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.74,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Panel de alarma"
+  ],
+  "resumen": "El usuario reporta fallo de hardware en sus componentes instalados y solicita asistencia del departamento técnico.",
+  "confidence": {
+    "motivo": 0.92,
+    "categoria": 0.99,
+    "sentimiento_cliente": 0.87,
+    "educacion_operador": 0.87,
+    "resolucion": 0.91
+  }
+}

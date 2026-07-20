@@ -1,0 +1,21 @@
+{
+  "id": "0073",
+  "motivo": "Cambio de datos",
+  "categoria": "administracion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.59,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Mando",
+    "Sirena",
+    "Botón SOS"
+  ],
+  "resumen": "Actualización de información de contacto o del número de cuenta para los cargos mensuales recurrentes de la suscripción.",
+  "confidence": {
+    "motivo": 0.86,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.9,
+    "educacion_operador": 0.95,
+    "resolucion": 0.93
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0037",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.53,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 0.86,
+    "categoria": 0.95,
+    "sentimiento_cliente": 0.84,
+    "educacion_operador": 0.86,
+    "resolucion": 0.96
+  }
+}

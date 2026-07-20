@@ -1,0 +1,19 @@
+{
+  "id": "0092",
+  "motivo": "Solicitud de mantenimiento",
+  "categoria": "mantenimiento",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.05,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Botón SOS"
+  ],
+  "resumen": "Petición de visita preventiva para comprobar el correcto funcionamiento de las baterías y sensores instalados.",
+  "confidence": {
+    "motivo": 0.97,
+    "categoria": 0.94,
+    "sentimiento_cliente": 0.82,
+    "educacion_operador": 0.86,
+    "resolucion": 0.92
+  }
+}

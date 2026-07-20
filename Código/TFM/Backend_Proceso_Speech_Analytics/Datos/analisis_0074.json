@@ -1,0 +1,20 @@
+{
+  "id": "0074",
+  "motivo": "Otro",
+  "categoria": "otro",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.74,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Teclado",
+    "Sensor de humo"
+  ],
+  "resumen": "El cliente se comunica por cuestiones varias no tipificadas, solicitando información general sobre los términos del servicio actual.",
+  "confidence": {
+    "motivo": 0.96,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.91,
+    "educacion_operador": 0.86,
+    "resolucion": 0.93
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "0069",
+  "motivo": "Falsa alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.47,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Teclado",
+    "Sensor de humo"
+  ],
+  "resumen": "Se recibe llamada tras un salto accidental provocado por una mascota o descuido. El cliente confirma código y se anula el aviso.",
+  "confidence": {
+    "motivo": 0.81,
+    "categoria": 0.86,
+    "sentimiento_cliente": 0.8,
+    "educacion_operador": 0.81,
+    "resolucion": 0.93
+  }
+}

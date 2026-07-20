@@ -1,0 +1,17 @@
+{
+  "id": "0099",
+  "motivo": "Salto de alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.47,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "El cliente llama tras activarse la alarma en su domicilio. Se verifica la situación de seguridad mediante protocolo estándar.",
+  "confidence": {
+    "motivo": 0.81,
+    "categoria": 0.92,
+    "sentimiento_cliente": 0.96,
+    "educacion_operador": 0.87,
+    "resolucion": 0.94
+  }
+}

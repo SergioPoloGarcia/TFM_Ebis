@@ -1,0 +1,19 @@
+{
+  "id": "0052",
+  "motivo": "Cambio de datos",
+  "categoria": "administracion",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.48,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Sensor de inundación"
+  ],
+  "resumen": "Actualización de información de contacto o del número de cuenta para los cargos mensuales recurrentes de la suscripción.",
+  "confidence": {
+    "motivo": 0.94,
+    "categoria": 0.96,
+    "sentimiento_cliente": 0.85,
+    "educacion_operador": 0.83,
+    "resolucion": 0.95
+  }
+}

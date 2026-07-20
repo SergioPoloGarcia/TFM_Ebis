@@ -1,0 +1,17 @@
+{
+  "id": "0015",
+  "motivo": "Cambio de datos",
+  "categoria": "administracion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.5,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "Actualización de información de contacto o del número de cuenta para los cargos mensuales recurrentes de la suscripción.",
+  "confidence": {
+    "motivo": 0.94,
+    "categoria": 0.95,
+    "sentimiento_cliente": 0.9,
+    "educacion_operador": 0.81,
+    "resolucion": 0.96
+  }
+}

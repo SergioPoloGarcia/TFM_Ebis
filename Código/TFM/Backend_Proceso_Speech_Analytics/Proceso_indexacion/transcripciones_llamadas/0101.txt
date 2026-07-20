@@ -1,0 +1,31 @@
+OPERADOR: Buenos días, gracias por llamar a Seguridad Total. Mi nombre es Laura, ¿en qué puedo ayudarle?
+
+CLIENTE: Buenos días. Llamo porque he recibido la factura de este mes de la alarma y no me cuadra el importe que me han cobrado.
+
+OPERADOR: De acuerdo, vamos a revisarlo. ¿Me puede facilitar sus datos para localizar el contrato?
+
+CLIENTE: Sí, soy Juan García. Mi DNI termina en 4582.
+
+OPERADOR: Gracias, un momento mientras consulto la información. Veo aquí que tiene contratado un sistema de alarma para su vivienda con servicio de conexión a la central receptora.
+
+CLIENTE: Exacto. El problema es que normalmente pago unos 35 euros al mes y esta factura viene por casi 60 euros. No entiendo por qué ha subido tanto.
+
+OPERADOR: Voy a revisar el detalle de la factura. Un momento, por favor.
+
+CLIENTE: Es que nadie me avisó de ninguna subida y me parece una cantidad excesiva.
+
+OPERADOR: Entiendo su molestia. He revisado el recibo y veo que el importe adicional corresponde a una cuota de mantenimiento anual que se ha aplicado este mes. Aparece reflejada en las condiciones del contrato.
+
+CLIENTE: Pues no lo sabía. ¿Se puede pagar de otra manera o fraccionarlo?
+
+OPERADOR: Sí, puedo solicitar el fraccionamiento del importe adicional para que no se le cobre todo en una única factura. Voy a dejar registrada la petición.
+
+CLIENTE: De acuerdo, eso me parece mejor.
+
+OPERADOR: Perfecto. He realizado la solicitud y recibirá la confirmación por correo electrónico. La próxima factura volverá al importe habitual de su cuota mensual.
+
+CLIENTE: Vale, muchas gracias por la ayuda.
+
+OPERADOR: Gracias a usted por contactar con Seguridad Total. Que tenga un buen día.
+
+CLIENTE: Igualmente. Adiós.

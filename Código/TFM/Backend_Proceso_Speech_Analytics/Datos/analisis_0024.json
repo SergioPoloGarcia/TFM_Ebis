@@ -1,0 +1,19 @@
+{
+  "id": "0024",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.86,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Teclado"
+  ],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 0.96,
+    "categoria": 0.99,
+    "sentimiento_cliente": 0.83,
+    "educacion_operador": 0.82,
+    "resolucion": 0.98
+  }
+}

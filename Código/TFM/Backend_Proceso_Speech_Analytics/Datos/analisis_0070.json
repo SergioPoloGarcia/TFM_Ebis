@@ -1,0 +1,20 @@
+{
+  "id": "0070",
+  "motivo": "Salto de alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.4,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Mando",
+    "App móvil"
+  ],
+  "resumen": "El cliente llama tras activarse la alarma en su domicilio. Se verifica la situación de seguridad mediante protocolo estándar.",
+  "confidence": {
+    "motivo": 0.88,
+    "categoria": 0.85,
+    "sentimiento_cliente": 0.84,
+    "educacion_operador": 0.89,
+    "resolucion": 0.92
+  }
+}

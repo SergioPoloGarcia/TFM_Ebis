@@ -1,0 +1,21 @@
+{
+  "id": "0085",
+  "motivo": "Salto de alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.64,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Teclado",
+    "Botón SOS",
+    "Central receptora"
+  ],
+  "resumen": "El cliente llama tras activarse la alarma en su domicilio. Se verifica la situación de seguridad mediante protocolo estándar.",
+  "confidence": {
+    "motivo": 0.94,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.76,
+    "educacion_operador": 0.84,
+    "resolucion": 0.93
+  }
+}

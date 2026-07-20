@@ -1,0 +1,20 @@
+{
+  "id": "0029",
+  "motivo": "Solicitud de mantenimiento",
+  "categoria": "mantenimiento",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.94,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Panel de alarma",
+    "Central receptora"
+  ],
+  "resumen": "Petición de visita preventiva para comprobar el correcto funcionamiento de las baterías y sensores instalados.",
+  "confidence": {
+    "motivo": 0.99,
+    "categoria": 0.94,
+    "sentimiento_cliente": 0.89,
+    "educacion_operador": 0.84,
+    "resolucion": 0.91
+  }
+}

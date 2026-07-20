@@ -1,0 +1,20 @@
+{
+  "id": "0046",
+  "motivo": "Baja del servicio",
+  "categoria": "cancelacion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.47,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Cámara",
+    "Detector de apertura"
+  ],
+  "resumen": "El cliente solicita la cancelación del servicio de alarma por mudanza o inconformidad con los precios actuales.",
+  "confidence": {
+    "motivo": 0.83,
+    "categoria": 0.92,
+    "sentimiento_cliente": 0.97,
+    "educacion_operador": 0.8,
+    "resolucion": 0.99
+  }
+}

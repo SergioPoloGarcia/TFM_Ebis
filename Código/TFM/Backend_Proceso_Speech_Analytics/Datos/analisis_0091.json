@@ -1,0 +1,20 @@
+{
+  "id": "0091",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.64,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Detector de apertura",
+    "Detector de movimiento"
+  ],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 1.0,
+    "categoria": 0.91,
+    "sentimiento_cliente": 0.93,
+    "educacion_operador": 0.82,
+    "resolucion": 0.94
+  }
+}

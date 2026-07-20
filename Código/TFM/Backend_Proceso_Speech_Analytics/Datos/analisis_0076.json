@@ -1,0 +1,21 @@
+{
+  "id": "0076",
+  "motivo": "Solicitud de mantenimiento",
+  "categoria": "mantenimiento",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.96,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Panel de alarma",
+    "Sensor de inundación",
+    "Teclado"
+  ],
+  "resumen": "Petición de visita preventiva para comprobar el correcto funcionamiento de las baterías y sensores instalados.",
+  "confidence": {
+    "motivo": 0.82,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.98,
+    "educacion_operador": 0.93,
+    "resolucion": 0.96
+  }
+}

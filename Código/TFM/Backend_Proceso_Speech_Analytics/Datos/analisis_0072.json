@@ -1,0 +1,20 @@
+{
+  "id": "0072",
+  "motivo": "Consulta general",
+  "categoria": "informacion",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.59,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Cámara",
+    "Sensor de inundación"
+  ],
+  "resumen": "Dudas básicas sobre el funcionamiento del sistema en modo noche y cómo configurar las zonas de seguridad internas.",
+  "confidence": {
+    "motivo": 0.92,
+    "categoria": 0.9,
+    "sentimiento_cliente": 0.81,
+    "educacion_operador": 0.91,
+    "resolucion": 0.94
+  }
+}

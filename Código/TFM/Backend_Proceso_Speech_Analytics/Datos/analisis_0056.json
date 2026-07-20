@@ -1,0 +1,20 @@
+{
+  "id": "0056",
+  "motivo": "Renovación de contrato",
+  "categoria": "comercial",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.4,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Teclado",
+    "App móvil"
+  ],
+  "resumen": "Conversación comercial para extender el periodo de permanencia actual a cambio de mejoras tecnológicas en los equipos.",
+  "confidence": {
+    "motivo": 0.99,
+    "categoria": 0.86,
+    "sentimiento_cliente": 0.92,
+    "educacion_operador": 0.91,
+    "resolucion": 0.91
+  }
+}

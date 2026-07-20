@@ -1,0 +1,21 @@
+{
+  "id": "0002",
+  "motivo": "Problema de conexión",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.55,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Mando",
+    "Sensor de inundación",
+    "Panel de alarma"
+  ],
+  "resumen": "Pérdida de comunicación entre la consola principal y la central de monitoreo. Se realizan reajustes y pruebas de línea.",
+  "confidence": {
+    "motivo": 0.9,
+    "categoria": 1.0,
+    "sentimiento_cliente": 0.88,
+    "educacion_operador": 0.87,
+    "resolucion": 0.99
+  }
+}

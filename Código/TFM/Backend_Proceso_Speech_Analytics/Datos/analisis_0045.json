@@ -1,0 +1,19 @@
+{
+  "id": "0045",
+  "motivo": "Consulta general",
+  "categoria": "informacion",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.52,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Sirena"
+  ],
+  "resumen": "Dudas básicas sobre el funcionamiento del sistema en modo noche y cómo configurar las zonas de seguridad internas.",
+  "confidence": {
+    "motivo": 0.97,
+    "categoria": 1.0,
+    "sentimiento_cliente": 0.8,
+    "educacion_operador": 0.92,
+    "resolucion": 0.94
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0064",
+  "motivo": "Consulta de factura",
+  "categoria": "facturacion",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.66,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "Preguntas sobre el último cobro mensual o solicitud de aclaraciones por cargos adicionales en la factura del periodo actual.",
+  "confidence": {
+    "motivo": 0.86,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.96,
+    "educacion_operador": 0.87,
+    "resolucion": 0.99
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0066",
+  "motivo": "Solicitud de mantenimiento",
+  "categoria": "mantenimiento",
+  "sentimiento_cliente": "positivo",
+  "educacion_operador": 0.59,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "Petición de visita preventiva para comprobar el correcto funcionamiento de las baterías y sensores instalados.",
+  "confidence": {
+    "motivo": 0.82,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.95,
+    "educacion_operador": 0.92,
+    "resolucion": 0.93
+  }
+}

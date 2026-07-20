@@ -1,0 +1,19 @@
+{
+  "id": "0079",
+  "motivo": "Consulta general",
+  "categoria": "informacion",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.02,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Teclado"
+  ],
+  "resumen": "Dudas básicas sobre el funcionamiento del sistema en modo noche y cómo configurar las zonas de seguridad internas.",
+  "confidence": {
+    "motivo": 0.91,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.82,
+    "educacion_operador": 0.91,
+    "resolucion": 0.96
+  }
+}

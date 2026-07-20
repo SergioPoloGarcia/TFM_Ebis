@@ -1,0 +1,17 @@
+{
+  "id": "0078",
+  "motivo": "Otro",
+  "categoria": "otro",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.79,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "El cliente se comunica por cuestiones varias no tipificadas, solicitando información general sobre los términos del servicio actual.",
+  "confidence": {
+    "motivo": 0.94,
+    "categoria": 0.92,
+    "sentimiento_cliente": 0.8,
+    "educacion_operador": 0.89,
+    "resolucion": 0.99
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0094",
+  "motivo": "Baja del servicio",
+  "categoria": "cancelacion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.4,
+  "resolucion": true,
+  "dispositivos_mencionados": [],
+  "resumen": "El cliente solicita la cancelación del servicio de alarma por mudanza o inconformidad con los precios actuales.",
+  "confidence": {
+    "motivo": 0.92,
+    "categoria": 0.91,
+    "sentimiento_cliente": 0.77,
+    "educacion_operador": 0.94,
+    "resolucion": 0.95
+  }
+}

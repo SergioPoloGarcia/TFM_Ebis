@@ -1,0 +1,21 @@
+{
+  "id": "0063",
+  "motivo": "Problema con la app",
+  "categoria": "incidencia_tecnica",
+  "sentimiento_cliente": "muy_positivo",
+  "educacion_operador": 0.62,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "Central receptora",
+    "Sirena",
+    "Mando"
+  ],
+  "resumen": "El cliente experimenta dificultades para iniciar sesión o armar el sistema remotamente desde su aplicación de smartphone.",
+  "confidence": {
+    "motivo": 0.84,
+    "categoria": 0.98,
+    "sentimiento_cliente": 0.91,
+    "educacion_operador": 0.84,
+    "resolucion": 0.94
+  }
+}

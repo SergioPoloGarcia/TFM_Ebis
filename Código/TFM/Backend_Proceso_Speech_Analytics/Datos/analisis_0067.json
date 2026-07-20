@@ -1,0 +1,19 @@
+{
+  "id": "0067",
+  "motivo": "Falsa alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.07,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Sirena"
+  ],
+  "resumen": "Se recibe llamada tras un salto accidental provocado por una mascota o descuido. El cliente confirma código y se anula el aviso.",
+  "confidence": {
+    "motivo": 0.81,
+    "categoria": 0.93,
+    "sentimiento_cliente": 0.95,
+    "educacion_operador": 0.94,
+    "resolucion": 0.92
+  }
+}

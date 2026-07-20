@@ -1,0 +1,21 @@
+{
+  "id": "0038",
+  "motivo": "Consulta de factura",
+  "categoria": "facturacion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.11,
+  "resolucion": true,
+  "dispositivos_mencionados": [
+    "App móvil",
+    "Cámara",
+    "Mando"
+  ],
+  "resumen": "Preguntas sobre el último cobro mensual o solicitud de aclaraciones por cargos adicionales en la factura del periodo actual.",
+  "confidence": {
+    "motivo": 0.93,
+    "categoria": 0.91,
+    "sentimiento_cliente": 0.83,
+    "educacion_operador": 0.83,
+    "resolucion": 0.97
+  }
+}

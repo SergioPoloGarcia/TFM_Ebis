@@ -1,0 +1,17 @@
+{
+  "id": "0017",
+  "motivo": "Alta del servicio",
+  "categoria": "contratacion",
+  "sentimiento_cliente": "negativo",
+  "educacion_operador": 0.63,
+  "resolucion": false,
+  "dispositivos_mencionados": [],
+  "resumen": "Interés en contratar un nuevo paquete de seguridad integral para segunda residencia o local comercial de reciente apertura.",
+  "confidence": {
+    "motivo": 0.83,
+    "categoria": 0.91,
+    "sentimiento_cliente": 0.83,
+    "educacion_operador": 0.88,
+    "resolucion": 0.9
+  }
+}

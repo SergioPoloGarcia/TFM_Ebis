@@ -1,0 +1,21 @@
+{
+  "id": "0031",
+  "motivo": "Otro",
+  "categoria": "otro",
+  "sentimiento_cliente": "neutro",
+  "educacion_operador": 0.86,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Cámara",
+    "Detector de apertura",
+    "Central receptora"
+  ],
+  "resumen": "El cliente se comunica por cuestiones varias no tipificadas, solicitando información general sobre los términos del servicio actual.",
+  "confidence": {
+    "motivo": 0.83,
+    "categoria": 0.9,
+    "sentimiento_cliente": 0.94,
+    "educacion_operador": 0.85,
+    "resolucion": 0.93
+  }
+}

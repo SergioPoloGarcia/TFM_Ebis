@@ -1,0 +1,19 @@
+{
+  "id": "0095",
+  "motivo": "Salto de alarma",
+  "categoria": "otro",
+  "sentimiento_cliente": "muy_negativo",
+  "educacion_operador": 0.41,
+  "resolucion": false,
+  "dispositivos_mencionados": [
+    "Sirena"
+  ],
+  "resumen": "El cliente llama tras activarse la alarma en su domicilio. Se verifica la situación de seguridad mediante protocolo estándar.",
+  "confidence": {
+    "motivo": 0.9,
+    "categoria": 0.97,
+    "sentimiento_cliente": 0.8,
+    "educacion_operador": 0.85,
+    "resolucion": 0.96
+  }
+}
